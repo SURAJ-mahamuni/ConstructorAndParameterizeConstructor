@@ -3,7 +3,7 @@ public class ConstructorInJava {
     public ConstructorInJava() {
         System.out.println("This a non-parameterize constructor");
     }
-    public ConstructorInJava(int num){    //int num is integer parameter of this constructor is accepte one integer
+    public ConstructorInJava(int num){    //int num is integer parameter of this constructor is accepted one integer
         System.out.println(num);
     }
 }
